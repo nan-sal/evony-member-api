@@ -10,13 +10,10 @@
     "/pnp.loader.mjs"
   ],
   "words": [
-    "enabledelayedexpansion",
-    "endlocal",
     "Evony",
     "Kamil",
     "Myśliwiec",
-    "nestframework",
-    "setlocal"
+    "nestframework"
   ],
   "ignoreWords": [],
   "import": []
